@@ -1,0 +1,11 @@
+html {
+    padding: 20px;
+    font-size: 62.5%;
+}
+body {
+    font-size: 1.3rem;
+}
+
+pre {
+    color: coral;
+}
